@@ -1,3 +1,4 @@
+[![NPM](https://nodei.co/npm/governify-csp-tools.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/governify-csp-tools/)
 # Governify CSP Tools
 This is a Node.js module created to provide **Constraint Satisfaction Problems** (CSP) tools, such as:
 - **Reasoner**: solves a CSP in three different environments: local, remote and docker.
